@@ -16,6 +16,14 @@ Open `index.html` in a browser and keep the `assets` folder beside it.
 
 If you enjoy this project and would like to support my work, you can send a donation using the details below:
 
+<p align="center">
+  <a href="https://img.vietqr.io/image/TPB-66889878888-compact2.png?addInfo=Donate&amp;accountName=TRINH%20VAN%20HAO">
+    <img src="https://img.vietqr.io/image/TPB-66889878888-compact2.png?addInfo=Donate&amp;accountName=TRINH%20VAN%20HAO" alt="Donate to TRINH VAN HAO via TPBank" width="360">
+  </a>
+</p>
+
+Scan the QR code or click it to open the full-size image.
+
 - **Bank:** TPBank
 - **Account holder:** TRINH VAN HAO
 - **Account number:** `6688 9878 888`
